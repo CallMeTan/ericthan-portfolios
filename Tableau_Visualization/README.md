@@ -7,3 +7,4 @@ Please feel free to take a look at some of the dashboards I have created by clic
 1. US International Trades(Statistics): https://public.tableau.com/app/profile/ericthan/viz/US_International_Trade/Balance_of_Total_Trades
 
 
+2. Pizza Sales Analytics Dashboard: https://public.tableau.com/app/profile/ericthan/viz/Pizza_Sales_16857244467100/Sales_Trend_Over_Period
